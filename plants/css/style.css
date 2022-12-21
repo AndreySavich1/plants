@@ -10,3 +10,25 @@
     height: 134px;
     background-color: #EDF2EC;
 }
+.header_wrapper {
+
+}
+.logo_vector {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 111px;
+    top: 52px;
+}
+h1 {position: absolute;
+    width: 58.13px;
+    height: 17px;
+    left: 132.05px;
+    top: 56.04px;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
