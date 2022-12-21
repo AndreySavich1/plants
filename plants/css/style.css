@@ -93,4 +93,5 @@ h1 {position: absolute;
     top: 394px;
     border: 2px solid #E06733;
     border-radius: 10px;
+    cursor: pointer;
 }

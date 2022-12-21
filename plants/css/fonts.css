@@ -1,6 +1,12 @@
 @font-face {
     font-family: 'Inter';
-    src: url('/plants/plants/assets/fonts/COPYRIGHT.txt');
+    src: url('/plants/plants/assets/fonts/Inter-Italic.otf');
     font-weight: 100;
     font-style: normal;
   }
+@font-face {
+    font-family: 'Inika';
+    src: url('/plants/plants/assets/fonts/Inika-Regular.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
