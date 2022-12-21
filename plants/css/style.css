@@ -44,3 +44,42 @@ h1 {position: absolute;
 .nav-list li {
     display: inline;
 }
+.welcome {
+    position: absolute;
+    width: 100vw;
+    height: 532px;
+    left: 0px;
+    top: 134px;
+    background-color: #EDF2EC;
+}
+.leafs {
+    position: absolute;
+    width: 448.8px;
+    height: 407.36px;
+    left: 109px;
+    top: 62px;
+}
+#oxygen {
+    position: absolute;
+    width: 549px;
+    height: 101px;
+    left: 782px;
+    top: 98px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 50px;
+}
+#lorem {
+    position: absolute;
+    width: 525.44px;
+    height: 105px;
+    left: 782px;
+    top: 241px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+}
