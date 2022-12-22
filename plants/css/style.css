@@ -6,6 +6,11 @@
     max-width: 1440px;
     margin: 0 auto;
 }
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
 .header {
     width: 100vw;
     height: 134px;
@@ -16,13 +21,12 @@
    
 }
 .logo_vector {
-    position: absolute;
     width: 20px;
     height: 20px;
     left: 111px;
     top: 52px;
 }
-h1 {position: absolute;
+h1 {
     width: 58.13px;
     height: 17px;
     left: 132.05px;
@@ -35,7 +39,6 @@ h1 {position: absolute;
     color: #000000;
 }
 .nav-list {
-    position: absolute;
     width: 452px;
     height: 50px;
     left: 879px;
@@ -46,7 +49,6 @@ h1 {position: absolute;
     display: inline;
 }
 .welcome {
-    position: absolute;
     width: 100vw;
     height: 532px;
     left: 0px;
@@ -54,14 +56,12 @@ h1 {position: absolute;
     background-color: #EDF2EC;
 }
 .leafs {
-    position: absolute;
     width: 448.8px;
     height: 407.36px;
     left: 109px;
     top: 62px;
 }
 #oxygen {
-    position: absolute;
     width: 549px;
     height: 101px;
     left: 782px;
@@ -73,7 +73,6 @@ h1 {position: absolute;
     line-height: 50px;
 }
 #lorem {
-    position: absolute;
     width: 525.44px;
     height: 105px;
     left: 782px;
@@ -94,4 +93,31 @@ h1 {position: absolute;
     border: 2px solid #E06733;
     border-radius: 10px;
     cursor: pointer;
+}
+.about {
+    width: 100vw;
+    height: 666px;
+    background-color: #ffff;
+}
+.gardeners {
+    width: 463px;
+    height: 102px;
+    left: 109px;
+    top: 161px;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px
+}
+.lorem_2 {
+    width: 605px;
+    height: 208px;
+    left: 109px;
+    top: 303px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
 }
